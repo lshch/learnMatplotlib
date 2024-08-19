@@ -30,6 +30,7 @@ def print_dataframe_info(df, message=None):
 
 # Load the dataset
 # Reads the CSV file into a Pandas DataFrame named airbnb_df.
+
 df = pd.read_csv('AB_NYC_2019.csv')
 
 
